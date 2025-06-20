@@ -18,7 +18,7 @@ class LLMResponseManager:
     """
     
     def __init__(self, api_key: str = None):
-        self.api_key = api_key or "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"
+        self.api_key = api_key or ""
         self.api_url = "https://api.groq.com/openai/v1/chat/completions"
         self.prompt_manager = AdvancedPromptManager()
         self.embedding_manager = AdvancedEmbeddingManager()
