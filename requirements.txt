@@ -1,0 +1,16 @@
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+pillow
+pytesseract
+pdf2image
+python-docx
+requests
+langchain
+langchain-community
+streamlit-chat
+streamlit-option-menu
+plotly
+pandas
+markdown
